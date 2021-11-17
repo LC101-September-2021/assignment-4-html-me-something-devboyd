@@ -1,1 +1,51 @@
 /* Write your CSS here! */
+body {
+    font-family: 'PT Sans Caption', Tahoma, Verdana, sans-serif;
+    background-color: #509099;
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+
+.funParagraph {
+    color: green;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    margin-left: 600px;
+    
+}
+
+.images {
+    float: right;
+    margin-left: 20px;
+}
+
+.uniImages {
+    float: left;
+    margin-right: 20px;
+}
+
+/*.makeBetter {
+    margin: 500px;
+    padding: 10px;
+}*/
+
+#testingBorder {
+    border-color: #509099;
+    border-width: 10px;
+    border-style: solid;
+    padding-bottom: 50px;
+}
+
+#makeSmallLater {
+    font-size: 0.75em;
+}
