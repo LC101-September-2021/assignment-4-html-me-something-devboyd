@@ -5,7 +5,7 @@ body {
 }
 
 #mainHeading {
-    color: #672020;
+    color: red;
     text-align: center;
 }
 
@@ -15,7 +15,7 @@ body {
 }
 
 .funParagraph {
-    color: #206720;
+    color: green;
 }
 
 h2 {
